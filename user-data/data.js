@@ -13,7 +13,7 @@ export const skills = [
 
 export const experience = [
   {
-    title: "Pints Of Love",
+    title: "Prints Of Love",
     duration: "August 2024 - Present",
     subtitle: "Magento Developer (remote contract)",
     details: [
